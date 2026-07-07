@@ -1,10 +1,9 @@
 # Morning Brief Memory
 
-_Last updated: 2026-07-07 (morning pass)_
+_Last updated: 2026-07-07 (midday correction — Louisville AOP item closed out)_
 
 ## Active Commitments
 _(Commitments Matt made, from all sources including Zoom)_
-- Talk with Taylor Heath to explain how the original Louisville AOP number (469.9K) was derived. Source: DC Forecast mtg, 7/2. Still open as of 2026-07-07 — no dedicated Taylor 1:1 on today's calendar either.
 - Voiced support for prioritizing the ACE pick-shorts/mispick system fix given senior-team attention. Source: DCAB mtg, 7/1. Open-ended, no specific deliverable owed yet.
 - Sign the Hy-Tek Docusign for **ARI 7455 CO-28 VAS Modifications Client Summary** (ACE VAS-lane split project). Received 2026-07-06 04:26 UTC via Docusign from Connor Clark; status unconfirmed as of 2026-07-07 morning pass — recheck.
 - Follow up with Kim Segel on inbound timing to support the August 1st launch date. Source: GAT sync, 7/6. Sharpened by 7/6 GAT transcript: specifically, validate ETAs on the 56 inbound containers tied to the Aug 1 apparel launch ($42M/1.2M units), alongside Matt Engel and Daniel Garland.
@@ -12,7 +11,7 @@ _(Commitments Matt made, from all sources including Zoom)_
 
 ## Dwelling Items
 _(Flagged as stalled; running count = number of distinct daily briefs appeared in, not same-day reruns)_
-- Louisville AOP derivation explanation owed to Taylor Heath — see Active Commitments above. **Appeared in: 2 days (2026-07-06, 2026-07-07).**
+- ~~Louisville AOP derivation explanation owed to Taylor Heath~~ — **resolved/no action required as of 2026-07-07**, per Matt. Removed from tracking.
 - Kieran Lang (VP, its4logistics) waiting on a reply from Matt/Laura Hoegler since the 7/2 ITS Intro meeting; sent a second nudge 2026-07-06 14:36 UTC ("let me know details when you can"), still unanswered. **Appeared in: 2 days (2026-07-06, 2026-07-07).**
 - Solar project repair budget gap ($280K actual vs. $205K budgeted, ~$75K short), Hub — flagged again in the 7/6 FY27 Facilities Budget Review; Matt pushed for a resolution live in the meeting, none reached. Newly connected: this is the same electrical-infrastructure budget category implicated in the overnight 7/6→7/7 Hub power outage (circuit breaker between building and generator tripped, no failover). **Appeared in: 2 days (2026-07-06, 2026-07-07).**
 - **New:** Conveyor spare-parts budget at the Hub may be short — Gilbert Nino flagged in the 7/6 Facilities Budget Review that John Timmerman's (FMH) conveyor spare-parts needs likely exceed the $63K budgeted; Taylor Heath took a note to follow up, no resolution yet. **Appeared in: 1 day (2026-07-07).**
