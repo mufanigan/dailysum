@@ -1,61 +1,56 @@
 # Morning Brief Memory
 
-_Last updated: 2026-07-24_
+_Last updated: 2026-07-27_
 
 ## Active Commitments
-_(Commitments Matt made, from all sources including Zoom)_
-- **Hy-Tek Docusign (ARI 7455 CO-28 VAS Modifications Client Summary) — still voided, new envelope not yet reissued.** Dwelling 15 straight business days (2026-07-06 → 2026-07-24). Yesterday's Hy-Tek & Ariat Leadership Connect collided head-on with the Matt/Cecilia Monthly Touch Base (both 3:30pm CT) — the "first live moment" was lost to the collision itself, again. No dedicated venue on today's calendar either.
+_(Commitments Matt made, from all sources including Zoom and the Obsidian vault)_
+- **Hy-Tek Docusign (ARI 7455 CO-28 VAS Modifications Client Summary) — still voided, new envelope not yet reissued.** Dwelling 16 straight business days (2026-07-06 → 2026-07-27). Note: the broader Hy-Tek relationship thread is now moving — the Leadership Connect call did happen Thursday 7/23 (confirmed via email trail, correcting last pass's assumption it was lost to a calendar collision); Manny Abrego (Controls Engineer) and Mark Waldron (PM) are on-site this week, and a dedicated Exotec support resource is targeted to be finalized Tuesday 7/28. Worth checking whether the Docusign reissue rides along with that momentum.
 - Separate Docusign envelope ("GPMS260067_Geek+ Go-Live Report - Need Signature") from 2026-07-14 — status not rechecked this pass.
-- Reply to Laura Hoegler's 7/19 tariff-timing forward: still unanswered. **Section 122 lapsed at 12:01am ET 2026-07-24 as scheduled** — the deadline has now passed with no reply sent; close-out is overdue, not time-sensitive in the tariff sense anymore.
-- ~~Give Yusen (John Rae) the go-ahead on "De-Stuff It" equipment pickup~~ — resolved 7/22. Watch for Yusen to schedule the actual truck (still pending as of this pass).
-- Follow up with Kim Segel on inbound timing for the Aug 1 launch; validate ETAs on the 56 inbound containers ($42M/1.2M units). No email from Kim since 7/15 — now **9 calendar days of silence, launch 8 days out.** This is the day silence and runway converge; recommend escalating past a peer nudge if she stays dark.
-- (Facilities) Hub solar-repair $75K budget gap — outcome still unconfirmed (Zoom still inaccessible). No email trail either.
-- Cecilia Rios's dedicated FY27-planning calendar hold still hasn't appeared as an invite. Same 3:30pm collision above cost this its third live attempt.
-- Josiah Girton's three direct reports (manager-of-record change) — still worth a quick confirm if not already discussed live.
-- Reply to Ricardo Rangel's rack-delivery shortfall (7/22) — **resolved itself 7/23**: first truck of uprights arrived on-site 8am, crew unblocked. Matt never sent a reply in-thread; a closing acknowledgment is optional, not urgent.
-- Ryan Bezenek's swag request (3 dozen hats/shirts/vests to SLTC, high importance, 7/21) — still unanswered, now 2nd brief running.
-- Gianni Donadel asked Matt and Sara Barber to fold their areas into the consolidated FY27 Operations Strategy view (7/23) — no reply sent yet; today's noon FY27 Strategy call is the live venue to close this out.
+- Laura Hoegler's 7/19 tariff-timing forward — still unanswered. Section 122 lapsed 2026-07-24 as scheduled; this is now a close-out reply, not a live deadline.
+- Kim Segel inbound-timing follow-up for the Aug 1 launch — **still no reply since 7/15. Now 12 calendar days silent against a 5-day runway to launch.** Cecilia's 7/26 network update confirms staged Aug 1 apparel-launch orders begin shipping this week — outbound is moving on schedule while the inbound ETA question sits unanswered. This has crossed from "watch" to "escalate."
+- (Facilities) Hub solar-repair $75K budget gap — outcome still unconfirmed (Zoom still inaccessible, no email trail this pass).
+- Cecilia Rios's dedicated FY27-planning calendar hold — still hasn't appeared as an invite. No collision risk today (calendar clear of both meetings), but no venue has been created either.
+- Ryan Bezenek's swag request (3 dozen hats/shirts/vests to SLTC, high importance, 7/21) — still unanswered, now 3rd brief running.
 - Infios AR past-due notice ($196,436.92, 60+ days), addressed to Matt and Sam Segovia (7/20) — still unanswered, not rechecked this pass.
+- Contract 6916 (Locus Robotics NDA) — approved and routed for signature 7/24, addressed to Matt and Alex Barrera. Signature still pending as of this pass.
+- Alex Barrera flagged the Transolutions/TSC proposal doesn't match what he understood was being offered; wants to review with Matt before approving the SOW. On today's (7/27) calendar at 3:35pm CT.
 
 ## Dwelling Items
 _(Flagged as stalled; running count = number of distinct daily briefs appeared in, not same-day reruns)_
-- **Hy-Tek Docusign (ARI 7455 CO-28), voided.** **Appeared in: 15 business days (2026-07-06 → 2026-07-24).** No movement across six consecutive briefs; yesterday's planned live touchpoint was lost to a calendar collision, again.
-- **Cecilia Rios's dedicated FY27-planning calendar hold.** **Appeared in: 15 business days (2026-07-06 → 2026-07-24).** Same collision risk as above, now realized twice.
-- **Solar project repair budget gap ($280K actual vs. $205K budgeted, ~$75K short), Hub.** **Appeared in: 15 business days (2026-07-06 → 2026-07-24).** Outcome still unconfirmed — no email trail, Zoom still inaccessible.
-- **Kim Segel inbound-timing follow-up, Aug 1 launch.** **Appeared in: 14 business days (2026-07-07 → 2026-07-24).** Launch now 8 days out; silence now 9 calendar days — the closest convergence yet. Should escalate past a peer-to-peer nudge if no movement today.
-- **Conveyor spare-parts budget at the Hub** (Gilbert Nino/John Timmerman FMH needs vs. $63K budgeted). **Appeared in: 14 business days (2026-07-07 → 2026-07-24).**
-- **IT vs. Distribution cost ownership for the Infios/Geekplus workstation invoice** — Olena Zakharova's classification question. **Appeared in: 13 business days (2026-07-08 → 2026-07-24).** Yesterday's WCS Ownership meeting with Ryan Bezenek may have touched this, but the Zoom access gap means there's no record either way.
-- ~~Rack delivery shortfall (Ricardo Rangel)~~ — **resolved 2026-07-23** after 1 business day dwelling (vendor delivered uprights next morning). Removed from active tracking.
+- **Kim Segel inbound-timing follow-up, Aug 1 launch.** **Appeared in: 15 business days (2026-07-07 → 2026-07-27).** Silence (12 calendar days) now more than double the runway (5 days) to launch. Recommend escalating past a peer-to-peer nudge today.
+- **Hy-Tek Docusign (ARI 7455 CO-28), voided.** **Appeared in: 16 business days (2026-07-06 → 2026-07-27).** Underlying relationship thread is moving (see Active Commitments); paperwork itself still not reissued.
+- **Cecilia Rios's dedicated FY27-planning calendar hold.** **Appeared in: 16 business days (2026-07-06 → 2026-07-27).**
+- **Solar project repair budget gap ($280K actual vs. $205K budgeted, ~$75K short), Hub.** **Appeared in: 16 business days (2026-07-06 → 2026-07-27).** Outcome still unconfirmed.
+- **Conveyor spare-parts budget at the Hub** (Gilbert Nino/John Timmerman FMH needs vs. $63K budgeted). **Appeared in: 15 business days (2026-07-07 → 2026-07-27).**
+- **IT vs. Distribution cost ownership for the Infios/Geekplus workstation invoice** — Olena Zakharova's classification question. **Appeared in: 14 business days (2026-07-08 → 2026-07-27).** Zoom access gap still means no record of whether last week's WCS Ownership meeting touched this.
 
 ## VIPs Owed Response
-- **Laura Hoegler** — owes a reply on the 7/19 tariff-timing DC callout; Section 122 has now lapsed (7/24), so this is a close-out, not a live deadline.
-- **Cecilia Rios** — dedicated FY27-planning session still not on calendar; two live attempts now lost to the same recurring collision with Hy-Tek Leadership Connect.
-- **Ryan Bezenek** — owed a reply on both the swag request (7/21) and the Hy-Tek Docusign escalation; WCS Ownership meeting outcome from 7/23 still unconfirmed.
-- **Daniel Garland** — wants to discuss combining routing compliance for Tyndale and Academy; Aug 4 Tyndale/Ariat Ops Coordination meeting is now confirmed as the likely venue.
+- **Kim Segel** — inbound-timing thread now critical; escalate today if still silent.
+- **Laura Hoegler** — owes/owed a close-out reply on the 7/19 tariff callout.
+- **Ryan Bezenek** — swag request (7/21) still unanswered.
+- **Cecilia Rios** — dedicated FY27-planning session still not on calendar.
+- **Daniel Garland** — wants to discuss combining routing compliance for Tyndale and Academy; Aug 4 Tyndale/Ariat Ops Coordination meeting is the likely venue (Tyndale's own Tuesday slot has since moved — new times proposed 7/29 or 7/30).
 
 ## Retail Partner / Logistics Threads to Watch
-- **Section 122 tariff has lapsed (2026-07-24, 12:01am ET), as scheduled.** No extension passed. USTR's Section 301 investigations into 16 economies (China, EU, Vietnam, India, Mexico, Japan, Korea, and others) over manufacturing overcapacity are the administration's intended bridge to replacement tariffs — nothing in force yet, but worth tracking as the next shoe. [Section 122 Tariffs Expire July 24: What Businesses Need to Know](https://statt.com/blog/section-122-tariff-expiration-what-businesses-need-to-know/)
-- **Tractor Supply Q2 2026 results missed expectations** (comps -1.5%, full-year outlook trimmed) reported 7/23, even as Ariat's own WMS team scheduled a working session with Tractor Supply for 8/4 on a potential Phase 1 carton-count project migration. Worth keeping that project narrowly scoped given the partner's own belt-tightening. [Tractor Supply Q2 2026 results](https://seekingalpha.com/article/4924917-tractor-supply-company-2026-q2-results-earnings-call-presentation)
-- **Ocean freight: mixed signals.** China–Europe rates eased ~7% as of 7/22, but Trans-Pacific lanes remain tight and ~10.9% of the global container fleet is still tied up in congestion — worst since 2022. Directly bears on the still-silent Kim Segel Aug-1 inbound thread. [Freightos July 22 update](https://www.freightos.com/freight-resources/ocean-rates-ease-on-early-peak-season-cooling-and-capacity-additions-july-22-2026-update/)
-- **Truckload capacity tightening through August**, spot rates 55%+ above last year despite a 10% pullback off the July 4th peak. [Transportation Industry Trends: July 20–24, 2026](https://transportationinsight.com/resources/transportation-industry-trends-july-20-24-2026/)
-- **ACE Hypercare — trending the right direction.** Robot presentation rate 285.19 vs. 296 target (up from a 240 baseline). Document-inserter issue now owned by Phil Peters, working directly with PSI (equipment manufacturer). UHMW kicker hardware arrived 7/24 for install to fix box-bounce on the sushi loop.
-- **WMS Enhancements — two dates to track:** ACE YMS go-live targeted 8/5 (final device UAT 7/28); Tractor Supply Phase 1 carton-count migration working session 8/4.
-- Infios AR past-due notice ($196,436.92, 60+ days) from 7/20 addressed to Matt and Sam Segovia — status not rechecked this pass, still dwelling unanswered.
-- Yusen "De-Stuff It" pickup — go-ahead given, Charlie Muedano named POC; still watching for Yusen to schedule the actual truck (no movement seen yet).
-- Hy-Tek TGW Miniload remote support renewal (July '26–'27) — support lapsed June 30; still open, Jeff Fogle's Softchoice/TGW patching contract outline from 7/21 still awaiting next review.
-- Aug 4 Tyndale/Ariat Ops Coordination meeting confirmed; Daniel Garland still raising combined routing compliance for Tyndale and Academy.
-- Gilbert Nino/John Timmerman mini-load tape-inspection fix (camera-based catch on boxes with tape sticking out) — new thread, awaiting Matt's sign-off.
+- **Brazil footwear tariff: 25% duty on Brazilian-origin footwear and apparel took effect 2026-07-22**, per USTR Section 301 findings (digital trade, IP, ethanol market access, anti-corruption, deforestation enforcement). Comes right on the heels of the Section 122 lapse (7/24) — worth tracking sourcing exposure. [Brazil tariff footwear industry reaction](https://www.business-humanrights.org/en/latest-news/brazil-us-imposes-25-tariff-on-brazilian-goods-incl-footwear-raising-concerns-among-the-industry/)
+- **Truckload capacity structurally tightening** — C.H. Robinson forecasting spot rates +34% YoY as of July; accepted volumes above 2025 levels since Memorial Day. Bears directly on inbound cost/timing for the Kim Segel Aug-1 thread. [July 2026 Freight Market Update](https://www.arrivelogistics.com/insights/july-2026-freight-market-update/)
+- **Warehouse robotics vendor activity picking up industry-wide** (Ambi Robotics/Pickle Robot inbound-automation integration, Locus Robotics cold-storage hardware) right as Ariat's own Locus Robotics NDA (Contract 6916) cleared approval 7/24 and is now pending signature — worth reading as early-stage vendor evaluation context.
+- **Tractor Supply opened its 2,400th store** (first of a planned 100 in 2026) — a stronger signal than last week's soft Q2 comps; account health note for the 8/4 carton-count migration working session.
+- Yusen "De-Stuff It" pickup — go-ahead given, Charlie Muedano named POC; still watching for Yusen to schedule the actual truck.
+- Hy-Tek TGW Miniload remote support renewal (July '26–'27) — support lapsed June 30; still open.
+- Aug 4 Tyndale/Ariat Ops Coordination meeting confirmed; Tyndale's own recurring Tuesday sync has been pushed (new options 7/29 or 7/30 proposed by Tyndale's side).
+- Gilbert Nino/John Timmerman mini-load tape-inspection fix (camera-based catch on boxes with tape sticking out) — no new evidence this pass; still awaiting sign-off per last brief.
+- **ACE Hypercare, Friday 7/24**: WMS order-transmission issue ~2pm CST, self-resolved same shift; day's robot presentation rate 285.77. Kicker hardware installs for box-orientation proceeding over the weekend into this week.
 
 ## CliftonStrengths / Leadership Reflections Noted
-- 2026-07-06 → 2026-07-24 (recurring, unresolved, now **17 business days running**): the distribution leadership team's apparent over-index on the Executing domain vs. Influencing, Relationship Building, Strategic Thinking.
-- Obsidian Thoughts scratch-pad still carries the unresolved note: "How much does the pull-forwards get in the way of hitting RDD on other orders? How much do we sacrifice on fill rate/batching to drop early? Be intentional about asking challenging questions." Today's noon FY27 Strategy call with Gianni and Sara is a live, low-stakes place to actually raise it.
-- **Obsidian Daily Notes/GAT/Thoughts folders unchanged for an 8th straight week (since 2026-07-06).** Continuing the standing plan — passive pattern note only.
+- 2026-07-06 → 2026-07-27 (recurring, unresolved, now **18 business days running**): the distribution leadership team's apparent over-index on the Executing domain vs. Influencing, Relationship Building, Strategic Thinking (Gallup's own four CliftonStrengths leadership domains — useful frame for naming this directly with the team).
+- Obsidian Thoughts scratch-pad still carries the unresolved note: "How much does the pull-forwards get in the way of hitting RDD on other orders? How much do we sacrifice on fill rate/batching to drop early? Be intentional about asking challenging questions." No live venue identified on today's calendar; still open.
+- **Obsidian Daily Notes/GAT/Thoughts folders unchanged for a 9th straight week (since 2026-07-06).** Continuing the standing plan — passive pattern note only.
 
 ## Patterns
 _(Week-over-week observations)_
-- **Zoom MCP connection unauthenticated for a 13th consecutive business day (2026-07-08 → 2026-07-24).** Now spans two and a half work-weeks; every meeting outcome (Daily Ops, Hy-Tek Leadership Connect, LTP Summit, Matt/Cecilia Touch Base) remains unconfirmed beyond what surfaces in email. Re-authorization needs to happen in an interactive session.
-- **Microsoft Teams/Graph rate limiting has now hit a 5th consecutive pass at 0 of 45 chats scanned.** Hasn't cleared once in over a week — worth a platform-level IT ticket rather than continuing to wait it out.
-- **Round-number dwelling thresholds keep arriving without closing.** Docusign, Cecilia's FY27 hold, and the solar budget gap are now all at 15 straight business days with zero net movement across seven consecutive briefs — the same calendar collision (Hy-Tek Leadership Connect vs. Matt/Cecilia Touch Base) has now cost two of these three items a live touchpoint on two separate occasions.
-- **Kim Segel's inbound-timing thread has now gone 9 calendar days silent against an 8-day runway** — silence now exceeds the days left before launch. This has crossed the threshold flagged last pass; recommend escalating past a peer-to-peer nudge today if nothing moves.
-- **A second item resolved itself without Matt's direct reply** (Ricardo Rangel's rack delivery, resolved in 1 business day via the vendor's own follow-through) — echoing the Yusen pattern from last week: fast-moving operational items often clear on their own once flagged, while calendar-hold and paperwork items (Docusign, FY27 planning session) don't move without a forced live conversation.
-- **Obsidian vault Daily Notes/GAT/Thoughts folders unchanged for an 8th straight week.** Holding the passive-note approach.
+- **Zoom MCP connection unauthenticated for a 14th consecutive business day (2026-07-08 → 2026-07-27).** Nearly three full work-weeks; every meeting outcome remains unconfirmed beyond what surfaces in email. Re-authorization needs to happen in an interactive session.
+- **Microsoft Teams/Graph rate limiting has now hit a 6th consecutive pass at 0 of 45 chats scanned.** Hasn't cleared once in over a week and a half — this now clearly warrants a platform-level IT ticket rather than continued waiting.
+- **Last pass's assumption that the Hy-Tek Leadership Connect call was "lost to a calendar collision" was wrong** — the call happened Thursday 7/23 per the email trail. Worth treating Zoom-gap-driven dwelling assumptions as provisional until confirmed, not stated as fact.
+- **Kim Segel's inbound-timing thread has crossed from concerning to critical**: 12 calendar days silent against a 5-day runway to the Aug 1 launch, while Cecilia's own weekly update confirms outbound launch orders are already staging and shipping. Recommend escalating past a peer-to-peer nudge today.
+- **Round-number dwelling thresholds keep arriving without closing.** Docusign, Cecilia's FY27 hold, and the solar budget gap are now all at 16 straight business days with zero net movement.
