@@ -1,102 +1,116 @@
 # Morning Brief Memory
 
-_Last updated: 2026-08-14_
+_Last updated: 2026-08-17_
 
 ## Active Commitments
 _(Commitments Matt made, from all sources including Zoom and the Obsidian vault)_
-- Kim Segel inbound-timing follow-up for the Aug 1 launch — deadline passed 8/1 with no evidence of resolution and no named backup owner. 29 business days running (2026-07-07 → 2026-08-14). Oldest live gap on the board.
-- Hy-Tek Docusign (ARI 7455 CO-28 VAS Modifications Client Summary) — still voided, new envelope not yet reissued. 30 business days (2026-07-06 → 2026-08-14). Thursday's on-site alignment was the last flagged opening; no evidence in this pass that it closed the loop.
+- Kim Segel inbound-timing follow-up for the Aug 1 launch — deadline passed 8/1 with no evidence of resolution and no named backup owner. 30 business days running (2026-07-07 → 2026-08-17). Oldest live gap on the board.
+- Hy-Tek Docusign (ARI 7455 CO-28 VAS Modifications Client Summary) — still voided, new envelope not yet reissued. 31 business days (2026-07-06 → 2026-08-17).
 - Separate Docusign envelope ("GPMS260067_Geek+ Go-Live Report - Need Signature") from 2026-07-14 — status not rechecked this pass.
 - Laura Hoegler's 7/19 tariff-timing forward — still unanswered close-out reply. Not rechecked this pass.
-- Cecilia Rios's dedicated FY27-planning calendar hold — still hasn't appeared as an invite. 30 business days running. Today's monthly touch base (4:15pm CT) is a live opening to raise it.
-- Ryan Bezenek's swag request (3 dozen hats/shirts/vests to SLTC, high importance, 7/21) — still unanswered, 17th brief running.
+- Cecilia Rios's dedicated FY27-planning calendar hold — still hasn't appeared as an invite. 31 business days running.
+- Ryan Bezenek's swag request (3 dozen hats/shirts/vests to SLTC, high importance, 7/21) — still unanswered, 18th brief running.
 - Infios AR past-due notices ($196,436.92 original + $16,000.00 wrinkle from 8/12) — still unanswered; not rechecked this pass.
 - Contract 6916 (Locus Robotics NDA) — approved and routed for signature 7/24. Not rechecked this pass.
-- Alex Barrera's Transolutions/TSC SOW review (7/27) — outcome still unconfirmed; Alex remains OOO in Rochester, NY (8/13–8/15) per calendar. Also still owes Bala a direct answer on cost-system zero-cost production activation.
+- Alex Barrera's Transolutions/TSC SOW review (7/27) — outcome still unconfirmed; Alex is back from OOO (Rochester, NY 8/13–8/15) as of today. Also still owes Bala a direct answer on cost-system zero-cost production activation.
 - Academy Sports (Muthukumar Natesan) IT/robotics-WMS connect with Ryan Bezenek — not rechecked this pass.
-- Grupo Quince22 3PL SLA counterproposal (Mexico transition, via Bonnie Law) — Hugo Castro's 8/13 email indicates a cross-check against GQ's data is in progress; outcome of the 8/10 DC four-wall session still unconfirmed (no Zoom access).
-- Sam Segovia's Avery Dennison past-due invoice (High importance) — still routed to Matt for DC-related review/approval. 11th brief.
-- Melissa Parsley's WRKCO/WestRock vendor invoice approval, rerouted to Matt (8/3) because Josiah Girton is on leave — still pending. 8th brief.
-- Taylor Heath needs a name for who approved the Egnite/ACE sublease-tenant electrical debit memo (8/4) — unanswered. 8th brief.
-- Alejandro Barrera flagged a PMO Dashboard staffing question (8/4) — unanswered, Alex still OOO through 8/14-8/15. 8th brief.
-- Wendy Worden (HR) asking whether Matt's department will sponsor Armando's TN visa extension after it wasn't granted — unanswered since 8/5. 7th brief.
-- Ryan Cunningham forwarded a PM service agreement for both facilities (Absolute Access vendor, via Josiah) for reference pricing / a decision on whether a new vendor company is needed — unanswered since 8/5. 7th brief.
-- Cecilia Rios asked directly whether Matt got what he needed on the Hub Fire insurance claim (carrier denied coverage, recommends filing under Ariat's own commercial policy) — Matt's original question to Pankaj Gupta on whether to pursue still looks unanswered. 6th brief. Also worth raising at today's touch base.
-- jordaneasley@systemsautomated.com offered Friday 8/14 availability (open except 12:30–1:30pm) — needs Matt to pick a time; the offered day has now arrived unanswered. 4th brief.
-- Gilbert Nino's OOO (8/12–8/15) now directly overlaps tonight's Hub south-end power-down (scheduled 7pm CT, Matt is calendar organizer). Taylor Heath's question — is this being done under the service agreement with 2 on-site electricians — remains unanswered. 4th brief.
-- Dan Wendorf (JLL) asking whether Ariat can start the AProjects sublease-space expansion Sept 1, wants to draft an amendment — unanswered. 3rd brief.
-- Josh Wilkinson's (Infios) ask for dedicated time with Matt and Carl Oreback to review the service agreement — no confirmation the review itself has occurred despite the 8/11 site visit. 3rd brief.
-- Kevin Byerly (Cavender's VP Supply Chain) asked Matt directly when they can meet on a pre-ticketing VAS opportunity; Trinity Grant's scoping work (footwear/apparel, at-once vs. seasonal) not yet reported back. 2nd brief.
-- Clinton Saylor's ACE automation-confidence gap / pay-rate data ask to Wendy Worden for proposed 2nd-shift temp associates — the 2nd shift itself is proceeding regardless (30 people, M–Th 4:45–9pm, confirmed 8/13); pay-rate data doesn't appear to have gone out yet. 2nd brief.
-- Jason Matthews (Hy-Tek) asked for Friday 8/14, 11am–1pm EST to review ACE onsite-support feedback with Ryan Cunningham/Matt/Clinton — no confirmation this landed on today's calendar. 2nd brief.
-- Chris Belflower proposed bringing Thompson Safety's First Aid/AED service in-house at HUB and ACE; wants Matt's, Clinton's, and Ryan Cunningham's thoughts — no read yet. 2nd brief.
-- **New this pass:** Jeff Fogle (Hy-Tek), high importance — proposed a regular server-patching protocol for the HUB systems list, submitted by TGW and routed to Ryan Bezenek's team; needs Ariat-side sign-off to close out.
-- **New this pass:** Melissa Parsley asked whether a vendor (IEC, filming an Egnite-employed student) can film in the field at ACE — needs a yes/no from Matt.
-- **New this pass:** Taylor Heath following up again on the Egnite Electric MSA, wants it in place ASAP.
-- **New this pass:** John Rae (Yusen Logistics) needs a bill of sale/invoice for the De-Stuff It unit so their finance team can process payment — electrical is installed and the unit is in use.
+- Grupo Quince22 3PL SLA counterproposal (Mexico transition, via Bonnie Law) — not rechecked this pass; no Zoom access.
+- Sam Segovia's Avery Dennison past-due invoice (High importance) — still routed to Matt for DC-related review/approval. 12th brief.
+- Melissa Parsley's WRKCO/WestRock vendor invoice approval, rerouted to Matt (8/3) — still pending. 9th brief.
+- Taylor Heath needs a name for who approved the Egnite/ACE sublease-tenant electrical debit memo (8/4) — unanswered. 9th brief.
+- Alejandro Barrera flagged a PMO Dashboard staffing question (8/4) — unanswered; Alex now back from OOO as of today, live opening to close. 9th brief.
+- Wendy Worden (HR) asking whether Matt's department will sponsor Armando's TN visa extension — unanswered since 8/5. 8th brief.
+- Ryan Cunningham forwarded a PM service agreement for both facilities (Absolute Access vendor) for reference pricing/vendor decision — unanswered since 8/5. 8th brief.
+- Gilbert Nino's OOO (8/12–8/15) overlapped the 8/14 Hub south-end power-down (Matt is calendar organizer). Shutdown proceeded as staged Friday night (IT test-server concern raised and cleared same day via Swe Thant/Softchoice); no post-event confirmation surfaced, so Taylor Heath's original electrician-coverage question is still technically unanswered. 5th brief.
+- jordaneasley@systemsautomated.com offered Friday 8/14 availability — the offered day has now lapsed unanswered. 5th brief.
+- Dan Wendorf (JLL) asking whether Ariat can start the AProjects sublease-space expansion Sept 1 — unanswered. 4th brief.
+- Josh Wilkinson's (Infios) ask for dedicated time with Matt and Carl Oreback to review the service agreement — no confirmation the review has occurred. 4th brief.
+- Kevin Byerly (Cavender's VP Supply Chain) asked Matt directly when they can meet on a pre-ticketing VAS opportunity; Trinity Grant's scoping work not yet reported back. 3rd brief.
+- Clinton Saylor's pay-rate data ask to Wendy Worden for proposed 2nd-shift temp associates — 2nd shift itself proceeding regardless (confirmed, resolved separately). 3rd brief.
+- Chris Belflower proposed bringing Thompson Safety's First Aid/AED service in-house at HUB and ACE — no read yet from Matt/Clinton/Ryan Cunningham. 3rd brief.
+- Jeff Fogle (Hy-Tek), high importance — proposed regular server-patching protocol for HUB systems, routed to Ryan Bezenek's team; needs Ariat-side sign-off. 2nd brief.
+- Melissa Parsley asked whether a vendor (IEC, filming an Egnite-employed student) can film in the field at ACE — needs a yes/no from Matt. 2nd brief.
+- Taylor Heath following up again on the Egnite Electric MSA, wants it in place ASAP. 2nd brief.
+- John Rae (Yusen Logistics) needs a bill of sale/invoice for the De-Stuff It unit so their finance team can process payment. 2nd brief.
+- **New this pass:** Grace Lee's Core Staffing Services Agreement indemnity dispute is NOT resolved (correcting the 8/14 brief's read) — Mo Ali's legal team pushed back on indemnity terms Friday evening after an earlier "finalize" call; Grace held the line on no indemnity negotiation as of 5:54pm Friday. Still open.
+- **New this pass:** Allan Seddon (Sr. Outbound Transportation Mgr) following up on whether Ariat is proceeding with Tyndale shipment consolidation — no decision communicated as of 8/14.
+- **New this pass:** Austin Zody (Academy Sports) needs feedback by 8/20 on the PD6 OTIF scorecard's late/not-in-full orders.
+- **New this pass:** Bobby Hays (SC Logistics) told Brett Levine to connect directly with Matt on the Ariat transition PM-support scope — expect outreach.
 
 ## Resolved / Closed This Pass
-- **Grace Lee's Core Staffing shift-guarantee clause question resolved via her own direct negotiation.** Grace sent an updated Services Agreement straight to the vendor contact (Mo Ali) and the two scheduled a call for the morning of 8/14 to finalize — no further confirmation needed from Matt. Dropping from Active Commitments/Dwelling.
-- **ACE 2nd shift decision made and communicated.** Clinton Saylor confirmed a 30-person part-time second shift (M–Th, 4:45–9pm) for OB Pick/Pack/Dock, running through at least September. Owner: Clinton Saylor/Carmen Puig.
-- **ACE Associate HC Plan for FY27 finalized**, headcounts loaded for finance per Clinton Saylor (8/13).
-- **Hub south-end power-down confirmed staged.** Reggie Jackson confirmed TGW, Geek+, and Hy-Tek/Exotec are ready for tonight's 7pm CT shutdown pending Ops sign-off — mechanically ready; electrician-coverage question remains open (see Active Commitments).
+- **Hy-Tek/Exotec performance trending positive.** Clinton Saylor confirmed to Jason Matthews (Hy-Tek) that Exotec performance improved through the second half of Friday and Saturday following Friday's onsite-support meeting. Work continues but direction is positive.
+- **RFID connectivity issue at the Hub resolved.** RIOT application update fixed the printer outage blocking RFID processing on 700+ Academy units (confirmed by Brittany Tanner's team, 8/16).
+- **SCL/Hub Associate Transition project plan shared** by John Urbina following Friday's SCL Conversion Presentation Prep; follow-up with Wendy Worden set for next week ahead of the Senior Team presentation.
+- **Fence-project vendor payment terms settled** at Net 60 MSA terms (Teams negotiation, Friday) rather than accelerating to Net 0/Net 10.
+- **Hub south-end power-down proceeded as planned** Friday night; a pre-shutdown IT test-server concern (Reggie Jackson) was raised and cleared same afternoon.
 
-_Note: prior-pass resolved items have aged out of this section per the 30-day pruning rule / already surfaced last pass._
+_Note: prior-pass resolved items (Grace Lee Core Staffing — reopened, see Active Commitments; ACE 2nd shift; ACE Associate HC Plan) have aged out or been corrected this pass._
 
 ## Dwelling Items
 _(Flagged as stalled; running count = number of distinct daily briefs appeared in, not same-day reruns)_
-- **Kim Segel's Aug 1 inbound-timing follow-up.** **29 business days** (2026-07-07 → 2026-08-14). Deadline missed since 8/1, zero resolution evidence, no backup owner named.
-- **Ryan Bezenek's swag request.** **17th consecutive brief** unanswered (first flagged 7/21).
-- **Hy-Tek Docusign (ARI 7455 CO-28), voided.** **30 business days.**
-- **Cecilia Rios's dedicated FY27-planning calendar hold.** **30 business days.**
-- **Solar project repair budget gap** ($280K actual vs. $205K budgeted, ~$75K short), Hub. **30 business days.** Outcome still unconfirmed.
-- **Conveyor spare-parts budget at the Hub** (Gilbert Nino/John Timmermans FMH needs vs. $63K budgeted). **29 business days.**
-- **Avery Dennison past-due invoice approval (Sam Segovia).** **11th brief** — High importance, still pending.
-- **Melissa Parsley's WRKCO/WestRock vendor invoice approval.** **8th brief.**
-- **Taylor Heath's Egnite/ACE debit memo approver question.** **8th brief.**
-- **Alejandro Barrera's PMO Dashboard staffing question.** **8th brief** — Alex still OOO through 8/14–8/15.
-- **Wendy Worden's Armando TN-visa sponsorship decision.** **7th brief.**
-- **Ryan Cunningham's Absolute Access PM-agreement question.** **7th brief.**
-- **Cecilia Rios's Hub Fire insurance question.** **6th brief.**
-- **jordaneasley routing/scheduling question.** **4th brief** — offered slot is today, still unanswered.
-- **Gilbert Nino's OOO overlapping tonight's Hub south-end power-down.** **4th brief** — shutdown proceeds tonight; electrician-coverage question still open.
-- **Dan Wendorf (JLL) sublease amendment question.** **3rd brief.**
-- **Josh Wilkinson's (Infios) service-agreement review ask.** **3rd brief.**
-- **Kevin Byerly (Cavender's) pre-ticketing VAS opportunity.** **2nd brief.**
-- **Clinton Saylor's 2nd-shift pay-rate ask to Wendy Worden.** **2nd brief.**
-- **Jason Matthews (Hy-Tek) Friday review-time ask.** **2nd brief.**
-- **Chris Belflower's Thompson Safety in-house proposal.** **2nd brief.**
+- **Kim Segel's Aug 1 inbound-timing follow-up.** **30 business days** (2026-07-07 → 2026-08-17).
+- **Ryan Bezenek's swag request.** **18th consecutive brief** unanswered (first flagged 7/21).
+- **Hy-Tek Docusign (ARI 7455 CO-28), voided.** **31 business days.**
+- **Cecilia Rios's dedicated FY27-planning calendar hold.** **31 business days.**
+- **Solar project repair budget gap** (Hub). **31 business days.**
+- **Conveyor spare-parts budget at the Hub.** **30 business days.**
+- **Avery Dennison past-due invoice approval (Sam Segovia).** **12th brief.**
+- **Melissa Parsley's WRKCO/WestRock vendor invoice approval.** **9th brief.**
+- **Taylor Heath's Egnite/ACE debit memo approver question.** **9th brief.**
+- **Alejandro Barrera's PMO Dashboard staffing question.** **9th brief** — Alex now back from OOO.
+- **Wendy Worden's Armando TN-visa sponsorship decision.** **8th brief.**
+- **Ryan Cunningham's Absolute Access PM-agreement question.** **8th brief.**
+- **Cecilia Rios's Hub Fire insurance question.** **7th brief.**
+- **Gilbert Nino's OOO overlapping the Hub south-end power-down.** **5th brief** — shutdown proceeded; electrician-coverage question itself still technically unanswered.
+- **jordaneasley routing/scheduling question.** **5th brief** — offered slot has lapsed.
+- **Dan Wendorf (JLL) sublease amendment question.** **4th brief.**
+- **Josh Wilkinson's (Infios) service-agreement review ask.** **4th brief.**
+- **Kevin Byerly (Cavender's) pre-ticketing VAS opportunity.** **3rd brief.**
+- **Clinton Saylor's 2nd-shift pay-rate ask to Wendy Worden.** **3rd brief.**
+- **Chris Belflower's Thompson Safety in-house proposal.** **3rd brief.**
+- **Jeff Fogle's (Hy-Tek) server-patching protocol sign-off.** **2nd brief.**
+- **Melissa Parsley's IEC filming Y/N.** **2nd brief.**
+- **Taylor Heath's Egnite Electric MSA.** **2nd brief.**
+- **John Rae's (Yusen) De-Stuff It bill of sale.** **2nd brief.**
+- **Grace Lee's Core Staffing indemnity dispute.** **1st brief flagged as dwelling** (was incorrectly read as resolved last pass).
+
+_This list has grown long — flagged to Matt in this pass to split into a separate `dwelling.md` file next time, per the memory protocol's size-management rule._
 
 ## VIPs Owed Response
 - **Kim Segel** — inbound-timing thread past its deadline with zero resolution evidence; needs a named backup owner.
-- **Cecilia Rios** — FY27-planning calendar hold and Hub Fire insurance question both still outstanding; today's monthly touch base is a live opening.
-- **Laura Hoegler** — owes/owed a close-out reply on the 7/19 tariff callout; also tagged (unanswered) on the Denim Fixture Storage delivery-question thread from Denise Lai/Allan Seddon.
-- **Ryan Bezenek** — swag request (7/21) still unanswered, 17th brief; also now the routing point for the Hy-Tek patching-window sign-off.
-- **Alex Barrera** — Transolutions/TSC SOW outcome from 7/27 still unconfirmed; also owes Bala a direct answer on cost-system zero-cost production activation. Remains OOO through 8/14–8/15.
+- **Cecilia Rios** — FY27-planning calendar hold and Hub Fire insurance question both still outstanding.
+- **Laura Hoegler** — owes/owed a close-out reply on the 7/19 tariff callout.
+- **Ryan Bezenek** — swag request (7/21) still unanswered, 18th brief; also the routing point for the Hy-Tek patching-window sign-off.
+- **Alex Barrera** — Transolutions/TSC SOW outcome from 7/27 still unconfirmed; also owes Bala a direct answer on cost-system zero-cost production activation. Back from OOO as of today.
 - **Daniel Garland** — active and organizing (DC Forecast recurring invite). No further follow-up needed.
 
 ## Retail Partner / Logistics Threads to Watch
-- **Cavender's (Kevin Byerly, VP Supply Chain) pre-ticketing VAS partnership** — direct outreach to Matt 8/12; Trinity Grant scoping footwear/apparel and at-once vs. seasonal before a deeper discussion. Still no scoping update.
-- **Boot Barn / Western-wear softening signal** — Boot Barn and peer retailers (grocery through farm/ranch) flagged a more cautious, income-bifurcated shopper on recent earnings calls even as headline comps stay positive. Watch Ariat's own Boot Barn order pattern into Q4 buys.
-- **Academy Sports OTIF/freight consolidation change (starting September)** — Academy is moving to a single-truck pickup model across all Ariat DCs (895/893/897) via SWFT; Renee Shattuck has open questions on carrier impact and SWFT drop-trailer effect at HUB/ACE. Not yet resolved.
-- **Panama Canal draft restrictions tightening (48.0 ft Aug 26, 47.5 ft Sept 3)** — carriers (Hapag-Lloyd, MSC, CMA CGM) already layering East/Gulf Coast surcharges effective mid-to-late August. Direct cost pressure on any Ariat freight routed through the canal in the next several weeks.
-- **DFW industrial real estate market at record leasing levels (~40.3M sq ft H1 2026)**, vacancy tightening — relevant backdrop for any future HUB/ACE expansion or overflow-space need; less negotiating leverage than in prior years.
-- **Freight capacity still tightening into hurricane season** — DAT reported the largest June-to-July contract-rate increases on record for dry van/reefer, driven by capacity constraints rather than demand. Confirms the freight-budget stress-test called for in prior briefs.
-- **Footwear tariffs — further upside risk flagged.** FDRA advising members to plan for tariffs near 20% for most producing countries, layered on the Section 301 10–12.5% tariffs in effect since 7/24 and Brazil's 25% footwear tariff.
+- **Cavender's (Kevin Byerly, VP Supply Chain) pre-ticketing VAS partnership** — still no scoping update from Trinity Grant.
+- **Boot Barn / Western-wear softening signal** — same-store sales growth slowed within Boot Barn's own July results even as full-year guidance was raised; income-bifurcated shopper pattern now visible intra-quarter, not just across retailers. Watch Ariat's own Boot Barn order pattern into Q4 buys.
+- **Retail sales missed expectations in July** (−0.6% MoM vs. +0.1% expected), reported 8/17 ahead of Home Depot (Tue), Target (Wed), Walmart (Thu) earnings this week — a fresh macro read on consumer strength heading into Q4 retail-partner buys.
+- **Academy Sports OTIF/freight consolidation change (starting September)** — single-truck pickup model across all Ariat DCs via SWFT; Renee Shattuck's carrier-impact/drop-trailer questions not yet resolved. Separately, Academy's PD6 OTIF scorecard needs feedback by 8/20.
+- **Academy Sports IT/robotics-WMS connect** — Ryan Bezenek connect with Muthukumar Natesan still not rechecked.
+- **Panama Canal draft restrictions tightening** (48.0 ft Aug 26, 47.5 ft Sept 3) — carrier East/Gulf Coast surcharges already layering in.
+- **Industrial real estate tightening confirmed at the national level** — Q2 2026 U.S. industrial vacancy fell below 7%, leasing up 27% YoY, net absorption up 28% — the DFW-specific tightening flagged previously is part of a national pattern, not local; less negotiating leverage for any future Hub/ACE overflow-space need.
+- **Freight capacity still tightening into hurricane/peak season** — tight trucking capacity is now pushing a stronger intermodal peak (more freight shifting to rail) on top of the DAT contract-rate spike already flagged. Second consecutive signal the freight-budget stress-test is warranted.
+- **Footwear tariffs — FDRA continues flagging ~20% baseline** for most producing countries as the likely landing point; unchanged from prior briefs.
 - **Tractor Supply GTIN-14 carton requirement (effective July)** — Jordan Willing's case-quantity-ordering questions still pending TSC's response. Not rechecked this pass.
 - Plant 1500 (TS) tracking behind dropped forecast; Adalberto owns refreshed landing estimate — not rechecked this pass.
-- Grupo Quince22 3PL SLA counterproposal (Ariat Mexico transition) — Hugo Castro indicates a cross-check with GQ's data is underway; 8/10 DC four-wall session outcome still unconfirmed (no Zoom access).
-- ACE outbound cartons (5-10/day) arriving at the HUB via FedEx without shipping labels — team (Rosario Ciricillo/Alejandro Barrera) tracking; not yet escalated, watch if volume grows.
+- Grupo Quince22 3PL SLA counterproposal (Ariat Mexico transition) — not rechecked this pass, no Zoom access.
+- ACE outbound cartons arriving at the HUB via FedEx without shipping labels — not rechecked this pass, watch if volume grows.
+- **New:** Allan Seddon's Tyndale shipment-consolidation decision still pending communication.
+- **New:** UPS billing pattern continues stacking — $1,615.60 and $2,205.20 now past due plus a new $463,835.99 invoice due 9/14; recurring AP-admin load, same pattern flagged for weeks.
 
 ## CliftonStrengths / Leadership Reflections Noted
-- 2026-07-06 → 2026-08-14 (recurring, unresolved, **35 business days running**): the distribution leadership team's apparent over-index on the Executing domain vs. Influencing, Relationship Building, Strategic Thinking. Today's Cecilia touch base and tonight's Hub power-down are both live reps. Noted once for continuity, not repeated in full each day.
-- **Obsidian Daily Notes/GAT/Thoughts folders unchanged since 2026-07-06** — **35 straight business days.** Already raised directly with Matt in the 8/6 brief; continuing to track silently, not re-raising.
-- Matt's own Thoughts scratch-pad question about pull-forwards trading off RDD/fill-rate integrity — resurfaced this pass alongside Clinton's 2nd-shift decision (speed now vs. stability later) as a live, concrete instance of the same tension.
+- The distribution leadership team's apparent over-index on the Executing domain vs. Influencing, Relationship Building, Strategic Thinking — recurring, unresolved, tracked silently for continuity, not repeated in full each pass.
+- **Obsidian Daily Notes/GAT/Thoughts folders unchanged since 2026-07-06** — now well past a month with no new entries. Already raised directly with Matt (8/6 brief); continuing to track silently.
+- Matt's own Thoughts scratch-pad question about pull-forwards trading off RDD/fill-rate integrity — resurfaced again this pass alongside Friday's positive Exotec read and the Pack & Hold release timing, a live and recurring instance of the same tension. Raised directly to Matt again this pass given it's now recurred multiple times without being addressed with the team.
 
 ## Patterns
 _(Week-over-week observations)_
-- **Zoom MCP connection unauthenticated for a 30th consecutive business day (2026-07-08 → 2026-08-14).** Re-authorization needs an interactive session. Still the single biggest constraint on brief completeness — yesterday's meeting outcomes (Daily Ops, S&OP prep, Hub Power Down planning) are all invisible to this pass beyond what surfaces in email.
-- **Microsoft Teams/Graph rate limiting persists but showed slight improvement this pass** — 33 of 46 chats scanned before hitting the rate limit (vs. 0 of 46 on both prior attempts), though the scanned set still returned no usable messages. Worth checking with Ryan Bezenek's IT team if it continues to degrade.
-- **The "no named backup owner" gap keeps recurring in new forms.** This pass: Gilbert Nino's OOO now directly overlaps the Hub south-end power-down happening tonight, with the electrician-coverage question still unanswered — same shape as Kim Segel's deadline breach and Ryan Bezenek's unanswered ask.
-- **Items that dwell 2+ briefs continue to show resolution via external/other-party initiative rather than Matt's own action.** This pass: Grace Lee resolved the Core Staffing clause question by negotiating directly with the vendor, and Clinton Saylor moved the 2nd-shift decision forward without waiting on the pay-rate data. Fifth consecutive pass this pattern has shown up — worth considering whether some of these dwelling items are actually low-priority-by-design rather than stuck.
-- **AP/vendor invoice approvals routed to Matt continue to stack** (UPS this pass, ~$7,793 combined) — still a recurring administrative load; may be worth a delegation conversation if it keeps recurring at this volume.
+- **Zoom MCP connection unauthenticated for a 31st consecutive business day (2026-07-08 → 2026-08-17).** Re-authorization needs an interactive session. Still the single biggest constraint on brief completeness.
+- **Microsoft Teams/Graph rate limiting is inconsistent** — this pass got a partial scan (18 messages) before hitting the 429 rate limit on a second call. Worth checking with Ryan Bezenek's IT team if it continues to degrade.
+- **The "no named backup owner" gap keeps recurring.** Same shape as Kim Segel's deadline breach, Ryan Bezenek's unanswered ask, and now Gilbert Nino's OOO overlapping the Hub power-down.
+- **A "resolved" item reopened this pass** — Grace Lee's Core Staffing indemnity question was marked closed last brief based on a scheduled finalize call, but the actual Friday correspondence shows it stalled on legal indemnity language instead. Worth being more conservative about marking vendor/legal negotiations "resolved" based on a scheduled call rather than its outcome.
+- **AP/vendor invoice approvals routed to Matt continue to stack** (UPS this pass, ~$3,820 past due plus a new $463,836 invoice) — still a recurring administrative load; may be worth a delegation conversation if it keeps recurring at this volume.
+- **Dwelling Items list has grown to 24 entries** — per the memory protocol's own guidance, this should be split into a separate file next pass rather than continuing to grow inline.
