@@ -2,45 +2,45 @@
 
 _Split out from memory.md on 2026-08-19 per the flag raised 8/17 and 8/18 (list had grown too long to keep inline). This file is the canonical, deduplicated ledger of commitments Matt made and open asks directed at him. memory.md keeps only a summary pointer here plus the sections that don't bloat (VIPs, Retail/Logistics Threads, CliftonStrengths, Patterns)._
 
-_Running count = number of distinct daily briefs the item has appeared in, not same-day reruns. Business-day counts are wall-clock trading days. Updated 2026-10-12. **No Outlook, Teams, or Zoom access this pass — thirtieth consecutive weekday of total connector outage (9/1 through 10/12) — into its seventh calendar week. Every count below is aged forward mechanically by one business day/one brief; none could be checked for actual resolution. Treat this run's counts as a floor, not a confirmed status.**_
+_Running count = number of distinct daily briefs the item has appeared in, not same-day reruns. Business-day counts are wall-clock trading days. Updated 2026-10-14. **No Outlook, Teams, or Zoom access this pass — thirty-second consecutive weekday of total connector outage (9/1 through 10/14) — into its seventh calendar week. Every count below is aged forward mechanically by business day/brief; none could be checked for actual resolution. Treat this run's counts as a floor, not a confirmed status. Note: the 10/13 run's ledger update never reached this repo (dailysum's memory.md push silently failed — last commit before this one was dated 10/12, even though the 10/13 brief itself posted fine to the vault). This update ages forward by two brief-days (10/13 + 10/14) from the 10/12 baseline to catch up, reconstructed against the 10/13 brief's own content where available.**_
 
 ## Open Items
 
-- ⚠️ **Bill Arends's Tractor Supply full-case footwear ordering analysis ask** (8/27) — same case-quantity analysis Matt's team ran for apparel, now needed for 220+ footwear SKUs ahead of TSC's full-case requirement. **31st brief.** TSC's full-case requirement is now **11 days past** its Thursday 10/1 arrival with zero connector visibility into whether the analysis was finished or the cutover executed. **Forcing function: TSC's Q3 earnings land October 22 — 10 days out** — sharpened by the ~75 Petsense store closures and guidance cut already on file.
-- **Derek Miller's (Hy-Tek) ExoTour coordination question.** **31st brief.** Date was Thursday, 2026-09-17, at ACE — still no connector access to check whether it landed cleanly.
-- **Kim Segel's Aug 1 inbound-timing follow-up.** **70 business days** (2026-07-07 → 2026-10-12). Deadline passed 8/1, no evidence of resolution, no named backup owner. Oldest live item on the board.
-- **Academy Sports (Austin Zody) PD6 OTIF scorecard feedback.** **40th brief.** Deadline missed 8/20 — now ~39 business days overdue. Rosario Ciricillo's PO-level findings (84/137 POs at 100%, 53 misses broken out) have been in hand since 8/18; still no evidence feedback has gone back to Academy. Academy's Q2 results (sales +3%, EPS +17.3%, raised guidance) confirm the account is healthy and growing, which is exactly why the OTIF miss and the 200-store rollout shouldn't be left to blur together. Offered this pass to draft the feedback note from Rosario's existing breakdown.
-- **Kim Segel's apparel forecast DC-split ask** (Frankie Pang's request, forwarded 8/24). **33rd brief.** Deadline Friday 8/28 missed over seven weeks ago now — still no reply on file.
-- **Ryan Bezenek's swag request** (3 dozen hats/shirts/vests to SLTC, high importance, originally 7/21). **57th consecutive brief** unanswered. A one-line yes/no would close this. Note: Ryan's own IT team is also the natural owner of the connector-outage escalation above.
-- **Cecilia Rios's dedicated FY27-planning calendar hold.** **70 business days.** Still hasn't appeared as its own invite.
-- **Hy-Tek Docusign (ARI 7455 CO-28 VAS Modifications Client Summary), voided.** **70 business days.** New envelope not yet reissued.
-- **Contract #6966 (Core-Ariat Staffing Services Agreement).** Held at "Pending Signature" via DocuSign since 8/25, 11:30pm — now nearly seven weeks without further movement. Treat as open until it sticks.
-- **Mario Trujillo interview feedback** (Trade Compliance Sr. Manager, role open 10+ months). **33rd brief.** Brianna Serrato's renewed request landed 8/26; no evidence feedback has been submitted.
-- **Avery Dennison past-due invoice approval** (Sam Segovia, High importance). **51st brief.**
-- **Melissa Parsley's WRKCO/WestRock vendor invoice approval**, rerouted to Matt 8/3. **48th brief.**
-- **Taylor Heath's Egnite/ACE debit memo approver question**, plus two pending Egnite Electric AP invoices (#1434, #1435) in iPayables. **48th brief.** No confirmation of an outcome has reached Matt's inbox on record.
-- **Alejandro Barrera's PMO Dashboard staffing question** (8/4). **48th brief.** Also still owes Bala a direct answer on cost-system zero-cost production activation.
-- **Wendy Worden (HR)** asking whether Matt's department will sponsor Armando's TN visa extension — unanswered since 8/5. **47th brief.**
-- **Ryan Cunningham** forwarded a PM service agreement (Absolute Access vendor, both facilities) for reference pricing/vendor decision — unanswered since 8/5. **47th brief.**
-- **Cecilia Rios's Hub Fire insurance question.** **46th brief.**
-- **jordaneasley (Systems Automated) routing/scheduling question.** **44th brief.**
-- **Dan Wendorf (JLL)** asking whether Ariat can start the AProjects sublease-space expansion Sept 1. **43rd brief.** The requested start date (9/1) is now over six weeks past with no confirmation on record.
-- **Josh Wilkinson's (Infios) ask** for dedicated time with Matt and Carl Oreback to review the service agreement. **43rd brief.** No new time confirmed on record.
-- **Kevin Byerly's (Cavender's VP Supply Chain) pre-ticketing VAS opportunity** — Trinity Grant's scoping work not yet reported back. **42nd brief.**
-- **Clinton Saylor's pay-rate data ask to Wendy Worden** for proposed 2nd-shift temp associates. **42nd brief.**
-- **Chris Belflower's proposal** to bring Thompson Safety's First Aid/AED service in-house at HUB and ACE — no read yet from Matt/Clinton/Ryan Cunningham. **42nd brief.**
-- **Jeff Fogle's (Hy-Tek) server-patching protocol proposal**, routed to Ryan Bezenek's team — needs Ariat-side sign-off. **41st brief.**
-- **Melissa Parsley's IEC filming Y/N** (vendor filming an Egnite-employed student at ACE) — needs a yes/no from Matt. **41st brief.**
-- **Taylor Heath's Egnite Electric MSA** — wants it in place ASAP. **41st brief.**
-- **John Rae's (Yusen) De-Stuff It bill of sale/invoice** — needed so Yusen finance can process payment. **41st brief.**
-- **Allan Seddon's Tyndale shipment-consolidation decision** — Renee Shattuck's further questions (four Ship-To locations outside Houston/Pipersville unaddressed, 8/26) still unaddressed. **40th brief.**
-- **Bobby Hays / Brett Levine (SC Logistics) PM-support scope for the Ariat transition.** **40th brief.** Bobby's confirmed Friday 9/4 Ariat Associate Engagement session at the Hub is now ~27 business days past — outcome still unconfirmed.
+- ⚠️ **Bill Arends's Tractor Supply full-case footwear ordering analysis ask** (8/27) — same case-quantity analysis Matt's team ran for apparel, now needed for 220+ footwear SKUs ahead of TSC's full-case requirement. **33rd brief.** TSC's full-case requirement is now **13 days past** its Thursday 10/1 arrival with zero connector visibility into whether the analysis was finished or the cutover executed. **Forcing function: TSC's Q3 earnings land October 22 — 8 days out** (date now confirmed via multiple sources, before market open) — sharpened by the ~75 Petsense store closures and guidance cut already on file.
+- **Derek Miller's (Hy-Tek) ExoTour coordination question.** **33rd brief.** Date was Thursday, 2026-09-17, at ACE — still no connector access to check whether it landed cleanly.
+- **Kim Segel's Aug 1 inbound-timing follow-up.** **72 business days** (2026-07-07 → 2026-10-14). Deadline passed 8/1, no evidence of resolution, no named backup owner. Oldest live item on the board.
+- **Academy Sports (Austin Zody) PD6 OTIF scorecard feedback.** **42nd brief.** Deadline missed 8/20 — now ~41 business days overdue. Rosario Ciricillo's PO-level findings (84/137 POs at 100%, 53 misses broken out) have been in hand since 8/18; still no evidence feedback has gone back to Academy. Academy's Q2 results (sales +3%, EPS +17.3%, raised guidance) confirm the account is healthy and growing, which is exactly why the OTIF miss and the 200-store rollout shouldn't be left to blur together. Offered twice now to draft the feedback note from Rosario's existing breakdown.
+- **Kim Segel's apparel forecast DC-split ask** (Frankie Pang's request, forwarded 8/24). **35th brief.** Deadline Friday 8/28 missed well over seven weeks ago now — still no reply on file.
+- **Ryan Bezenek's swag request** (3 dozen hats/shirts/vests to SLTC, high importance, originally 7/21). **59th consecutive brief** unanswered. A one-line yes/no would close this. Note: Ryan's own IT team is also the natural owner of the connector-outage escalation above.
+- **Cecilia Rios's dedicated FY27-planning calendar hold.** **72 business days.** Still hasn't appeared as its own invite.
+- **Hy-Tek Docusign (ARI 7455 CO-28 VAS Modifications Client Summary), voided.** **72 business days.** New envelope not yet reissued.
+- **Contract #6966 (Core-Ariat Staffing Services Agreement).** Held at "Pending Signature" via DocuSign since 8/25, 11:30pm — now nearly eight weeks without further movement. Treat as open until it sticks.
+- **Mario Trujillo interview feedback** (Trade Compliance Sr. Manager, role open 10+ months). **35th brief.** Brianna Serrato's renewed request landed 8/26; no evidence feedback has been submitted.
+- **Avery Dennison past-due invoice approval** (Sam Segovia, High importance). **53rd brief.**
+- **Melissa Parsley's WRKCO/WestRock vendor invoice approval**, rerouted to Matt 8/3. **50th brief.**
+- **Taylor Heath's Egnite/ACE debit memo approver question**, plus two pending Egnite Electric AP invoices (#1434, #1435) in iPayables. **50th brief.** No confirmation of an outcome has reached Matt's inbox on record.
+- **Alejandro Barrera's PMO Dashboard staffing question** (8/4). **50th brief.** Also still owes Bala a direct answer on cost-system zero-cost production activation.
+- **Wendy Worden (HR)** asking whether Matt's department will sponsor Armando's TN visa extension — unanswered since 8/5. **49th brief.**
+- **Ryan Cunningham** forwarded a PM service agreement (Absolute Access vendor, both facilities) for reference pricing/vendor decision — unanswered since 8/5. **49th brief.**
+- **Cecilia Rios's Hub Fire insurance question.** **48th brief.**
+- **jordaneasley (Systems Automated) routing/scheduling question.** **46th brief.**
+- **Dan Wendorf (JLL)** asking whether Ariat can start the AProjects sublease-space expansion Sept 1. **45th brief.** The requested start date (9/1) is now well over six weeks past with no confirmation on record.
+- **Josh Wilkinson's (Infios) ask** for dedicated time with Matt and Carl Oreback to review the service agreement. **45th brief.** No new time confirmed on record.
+- **Kevin Byerly's (Cavender's VP Supply Chain) pre-ticketing VAS opportunity** — Trinity Grant's scoping work not yet reported back. **44th brief.**
+- **Clinton Saylor's pay-rate data ask to Wendy Worden** for proposed 2nd-shift temp associates. **44th brief.**
+- **Chris Belflower's proposal** to bring Thompson Safety's First Aid/AED service in-house at HUB and ACE — no read yet from Matt/Clinton/Ryan Cunningham. **44th brief.**
+- **Jeff Fogle's (Hy-Tek) server-patching protocol proposal**, routed to Ryan Bezenek's team — needs Ariat-side sign-off. **43rd brief.**
+- **Melissa Parsley's IEC filming Y/N** (vendor filming an Egnite-employed student at ACE) — needs a yes/no from Matt. **43rd brief.**
+- **Taylor Heath's Egnite Electric MSA** — wants it in place ASAP. **43rd brief.**
+- **John Rae's (Yusen) De-Stuff It bill of sale/invoice** — needed so Yusen finance can process payment. **43rd brief.**
+- **Allan Seddon's Tyndale shipment-consolidation decision** — Renee Shattuck's further questions (four Ship-To locations outside Houston/Pipersville unaddressed, 8/26) still unaddressed. **42nd brief.**
+- **Bobby Hays / Brett Levine (SC Logistics) PM-support scope for the Ariat transition.** **42nd brief.** Bobby's confirmed Friday 9/4 Ariat Associate Engagement session at the Hub is now ~29 business days past — outcome still unconfirmed.
 - **Taylor Heath's revised Hy-Tek Exotec-move cost ask** (8/17, for FP&A's AOP comparison/reforecast prep) — unanswered.
-- **Bill Arends's Tractor Supply Carton Level Label deck** (8/27) — a 3rd option (label-only, to avoid chargebacks with less dev effort) still needs Matt's read. **31st brief.**
+- **Bill Arends's Tractor Supply Carton Level Label deck** (8/27) — a 3rd option (label-only, to avoid chargebacks with less dev effort) still needs Matt's read. **33rd brief.**
 - **Sublease Tenant invoice (ACE, Nicolas Reynares/Malinda Martinez/Charlie Muedano thread).** $91,605 still unpaid; Charlie's 8/27 direct ask to Nicolas remains unanswered on record.
-- **Clayton Webster's Upstairs IT room mini-split A/C condenser quote** (8/27, high importance) — needs a go/no-go so REG can schedule the replacement; labor cost improves if scheduled sooner. **31st brief.**
-- **Lauren Erickson's (Infios) Supply Chain Excellence Awards attendee question** — asking whether Matt wants to send someone in Laura Hoegler's place. **31st brief.**
-- **Saddle Creek Mismanagement investigation** (Gilbert Nunez, 4th-shift maintenance technician, via Gilbert Nino, 8/29) — whistleblower allegations of billing/headcount padding and chronic shift abandonment by SC Logistics management at Haslet/ACE ahead of their contract's March conclusion. Bobby Hays confirmed 8/30 an investigation is underway with outside resources; no written findings or timeline back yet, and Matt hasn't acknowledged the thread himself on record. **30th brief.** Friday 9/4's Hub session was the live venue to raise it directly with Bobby — unconfirmed whether that happened, now ~27 business days past.
+- **Clayton Webster's Upstairs IT room mini-split A/C condenser quote** (8/27, high importance) — needs a go/no-go so REG can schedule the replacement; labor cost improves if scheduled sooner. **33rd brief.**
+- **Lauren Erickson's (Infios) Supply Chain Excellence Awards attendee question** — asking whether Matt wants to send someone in Laura Hoegler's place. **33rd brief.**
+- **Saddle Creek Mismanagement investigation** (Gilbert Nunez, 4th-shift maintenance technician, via Gilbert Nino, 8/29) — whistleblower allegations of billing/headcount padding and chronic shift abandonment by SC Logistics management at Haslet/ACE ahead of their contract's March conclusion. Bobby Hays confirmed 8/30 an investigation is underway with outside resources; no written findings or timeline back yet, and Matt hasn't acknowledged the thread himself on record. **32nd brief.** Friday 9/4's Hub session was the live venue to raise it directly with Bobby — unconfirmed whether that happened, now ~29 business days past.
 
 ## Resolved / Closed Recently
 _No items on this personal ledger resolved this pass — connectors have been down for the entire window._
